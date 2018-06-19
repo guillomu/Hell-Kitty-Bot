@@ -1,0 +1,27 @@
+{
+  "name": "hell-kitty-bot",
+  "version": "1.0.0",
+  "description": "Anoying Hello Kitty Online discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillomu/Hell-Kitty-Bot.git"
+  },
+  "keywords": [
+    "node.js",
+    "discord",
+    "bot"
+  ],
+  "author": "Guillaume Groult",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillomu/Hell-Kitty-Bot/issues"
+  },
+  "homepage": "https://github.com/guillomu/Hell-Kitty-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
