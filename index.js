@@ -34,4 +34,4 @@ setInterval(function(){
   bot.channels.find("name", "général").send('@everyone Trop Mignon!') // On envoie @everyone Trop Mignon dans le channel général
 }, 120000);
 
-bot.login('NDU4NTg2NDQ4OTM4MDA4NTg2.Dgpzbg.MP-b4TUWOdVTmCTk7_HwkhzwIOY')  // Connection du bot sur le serveur
+bot.login('')  // Connection du bot sur le serveur
